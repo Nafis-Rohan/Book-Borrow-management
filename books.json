@@ -1,0 +1,74 @@
+[
+    {
+        "title": "V for Vendetta",
+        "author": "Alan Moore",
+        "description": "A dystopian story about rebellion and freedom.",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1343668985i/5805.jpg"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "description": "A thrilling mystery exploring art, religion, and secrets.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg"
+    },
+    {
+        "title": "Before the Coffee Gets Cold",
+        "author": "Toshikazu Kawaguchi",
+        "description": "A heartwarming tale of time travel and choices.",
+        "image": "https://m.media-amazon.com/images/I/71kW0ESYl5L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "title": "Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "description": "A legendary detective who solves mysteries with sharp observation and deductive reasoning.",
+        "image": "https://m.media-amazon.com/images/I/51071nF0pTL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "description": "The magical journey of a young wizard and his battle against the dark wizard Voldemort.",
+        "image": "https://ew.com/thmb/rvat6WP-MplFuFNA4xJ-aGKEADc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9781408855652-png-c57764456b554308ae1398474caab3c2.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "author": "Mario Puzo",
+        "description": "A gripping tale of crime, loyalty, and power in the world of the Mafia.",
+        "image": "https://m.media-amazon.com/images/I/61wKVw89MBL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "author": "Stephen King",
+        "description": "A powerful story of hope and perseverance set in a prison.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6faCWegknt4vSUsxAWh_RrRFCpTBmX-FNWQ&s"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "description": "A chilling psychological thriller involving an FBI trainee and a brilliant but twisted psychiatrist.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg"
+    },
+    {
+        "title": "Justice League",
+        "author": "Various (DC Comics)",
+        "description": "A team of superheroes united to protect the Earth from powerful threats.",
+        "image": "https://i.pinimg.com/564x/43/34/cb/4334cb695ecd1fd0d1507a590fb52fb1.jpg"
+    },
+    {
+        "title": "Attack on Titan",
+        "author": "Hajime Isayama",
+        "description": "A gripping tale of humanity's struggle against gigantic humanoid creatures.",
+        "image": "https://m.media-amazon.com/images/I/91F-m3Zm1xL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Death Note",
+        "author": "Tsugumi Ohba",
+        "description": "A psychological thriller about a notebook with the power to kill.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Death_Note_Vol_1.jpg/220px-Death_Note_Vol_1.jpg"
+    },
+    {
+        "title": "Fullmetal Alchemist",
+        "author": "Hiromu Arakawa",
+        "description": "The adventures of two brothers who seek to restore their bodies using alchemy.",
+        "image": "https://static-01.daraz.com.bd/p/a32b09beb1aaf878136bade56bca74cf.jpg"
+    }
+]
