@@ -38,5 +38,5 @@ Follow these steps to set up the Book Borrow Management System on your local mac
 ### Step 2: Set Up the Project Folder
 1. Copy the project folder (e.g., `Book-Borrow-management`) into the `htdocs` folder of XAMPP:
 
-##WEB PAGE VIEW
+###WEB PAGE VIEW
 ![Image](https://github.com/user-attachments/assets/c72e013f-7cdc-42d7-bb62-9da7ea2b5823)
